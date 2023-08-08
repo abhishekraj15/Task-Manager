@@ -50,7 +50,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Task Manager</h1>
+      <h1>Task Manager App</h1>
       <input
         type="text"
         placeholder="Enter your name"
